@@ -1,1 +1,0 @@
-import{j as o}from"./index-BoFnWDe-.js";const u="/assets/bg-Bv4gplnG.jpg";function a(){function r(n){return!!n||"Поле обязательное для ввода!"}function t(n){return n.length>2||"Слишком мало символов!"}function e(n){return n.includes("@")||"Введите корректный email"}return{form:o(!1),required:r,minLength:t,email:e}}export{u as _,a as u};
